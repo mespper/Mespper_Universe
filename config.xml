@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "2.0.0">
 
-    <name>Sou Vegetariano</name>
+    <name>Mespper Universe</name>
 
     <description>
-        Hello World Sou Vegetariano application that responds to the deviceready event.
+        Mespper Universe application that responds to the deviceready event.
     </description>
 
     <author href="http://mespper.com" email="messias@mespper.com">
